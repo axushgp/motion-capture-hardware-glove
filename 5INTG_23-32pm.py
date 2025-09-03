@@ -233,8 +233,8 @@ def main():
     user_id = input("Enter user name or ID: ")
     trial_id = input("Enter trial number: ")
     user_email = input("Enter your email address: ").strip()
-    sender_email = "ayush31377@gmail.com"
-    sender_password = "vfya wfhe xqkg eaur"
+    sender_email = "ayushgp@duck.com"
+    sender_password = "xxxx xxxx xxxx exxx"
     smtp_server = "smtp.gmail.com"
     smtp_port = 587
 
